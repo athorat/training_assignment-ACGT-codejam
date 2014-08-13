@@ -1,0 +1,6 @@
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\bin\Debug\firstPro.exe.config
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\bin\Debug\firstPro.exe
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\bin\Debug\firstPro.pdb
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\obj\Debug\firstPro.exe
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\obj\Debug\firstPro.pdb
+c:\users\athorat\documents\visual studio 2012\Projects\PeriodicString\firstPro\obj\Debug\firstPro.csprojResolveAssemblyReference.cache
